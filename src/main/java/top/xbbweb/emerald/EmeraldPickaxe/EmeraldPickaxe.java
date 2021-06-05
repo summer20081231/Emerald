@@ -7,6 +7,6 @@ import top.xbbweb.emerald.EmeraldSword.ModItemTier;
 
 public class EmeraldPickaxe extends PickaxeItem {
     public EmeraldPickaxe() {
-        super(ModItemTier.EMERALD, 2, -3f, (new Item.Properties().group(ModGroup.ITEM_GROUP)));
+        super(ModItemTier.EMERALD, 2, -3F, (new Item.Properties().group(ModGroup.ITEM_GROUP)));
     }
 }
