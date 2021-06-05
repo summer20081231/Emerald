@@ -1,0 +1,37 @@
+modLoader="javafml"
+loaderVersion="[34,)"
+license="GNU GPLv3"
+[[mods]] #mandatory
+modId="emerald"
+version="${file.jarVersion}"
+displayName="Emerald"
+credits="汪禹彤 YutongWang, 单子琦 ZiqiShan"
+authors="夏浩宸 HaochenXia"
+description='''
+这个模组是关于绿宝石的，绿色！
+你想象过你穿着全身的绿色吗？
+绿色的镐子？绿色的斧头？
+这个模组满足您！
+
+创作者是一个12岁的小毛娃，如有BUG敬请谅解，也可以私信2889582611（QQ）反馈。
+
+This mod is about emerald, green!
+Have you ever imagined that you were all green?
+Green pick? Green axe?
+This mod satisfies you!
+
+The creator is a 12-year-old little children, if my mod have bugs, please understand, you can also send a private message 2889582611 (QQ) feedback.
+'''
+
+#[[dependencies.emerald]]
+#    modId="forge"
+#    mandatory=true
+#    versionRange="[34,)"
+#    ordering="NONE"
+#    side="BOTH"
+#[[dependencies.emerald]]
+#    modId="minecraft"
+#    mandatory=true
+#    versionRange="[1.16.3]"
+#    ordering="NONE"
+#    side="BOTH"
